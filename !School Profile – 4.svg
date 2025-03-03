@@ -53,36 +53,40 @@
         font-family: Sitka Heading;
       }
 
-      .cls-12, .cls-13, .cls-18, .cls-19, .cls-22, .cls-23, .cls-24 {
+      .cls-12, .cls-13, .cls-17, .cls-18, .cls-21, .cls-22, .cls-23 {
         font-size: 16px;
       }
 
-      .cls-13, .cls-15, .cls-17, .cls-19, .cls-23, .cls-26 {
+      .cls-13, .cls-16, .cls-18, .cls-22, .cls-26 {
         font-family: Ebrima;
       }
 
-      .cls-14, .cls-18, .cls-21, .cls-22, .cls-24 {
-        font-family: Ebrima-Bold, Ebrima;
+      .cls-14 {
+        text-decoration: underline;
       }
 
-      .cls-14, .cls-18, .cls-20, .cls-24 {
-        font-weight: 700;
-      }
-
-      .cls-15, .cls-23 {
-        font-weight: 400;
-      }
-
-      .cls-16, .cls-20, .cls-25 {
+      .cls-15, .cls-19, .cls-24 {
         font-size: 10px;
       }
 
-      .cls-16 {
+      .cls-15 {
         font-family: SegoeUI, Segoe UI;
       }
 
-      .cls-20, .cls-25 {
+      .cls-17, .cls-20, .cls-21, .cls-23, .cls-25 {
+        font-family: Ebrima-Bold, Ebrima;
+      }
+
+      .cls-17, .cls-19, .cls-23, .cls-25 {
+        font-weight: 700;
+      }
+
+      .cls-19, .cls-24 {
         font-family: SegoeUI-Bold, Segoe UI;
+      }
+
+      .cls-22 {
+        font-weight: 400;
       }
 
       .cls-26 {
@@ -125,19 +129,18 @@
     <path id="Path_41" data-name="Path 41" class="cls-5" d="M64.384,27.516a3.546,3.546,0,0,1-3.573,3.457H57.237l.078,17.252a7.627,7.627,0,0,1-.056.872v1.745a4.388,4.388,0,0,1-4.466,4.308H51.007c-.123,0-.246,0-.368-.011-.156.011-.313.011-.469.011l-3.629-.011H43.86a4.388,4.388,0,0,1-4.466-4.308V41.354a3.508,3.508,0,0,0-3.573-3.446H28.674A3.508,3.508,0,0,0,25.1,41.354v9.477a4.388,4.388,0,0,1-4.466,4.308H14.393c-.167,0-.335-.011-.5-.022-.134.011-.268.022-.4.022H11.7a4.388,4.388,0,0,1-4.466-4.308V38.769a2.722,2.722,0,0,1,.011-.3V30.962H3.673A3.486,3.486,0,0,1,1.217,24.92L29.836.862A3.294,3.294,0,0,1,32.292,0a3.8,3.8,0,0,1,2.345.754L63.155,24.931a2.908,2.908,0,0,1,1.228,2.585" transform="translate(182.599 847.25)"/>
     <path id="Path_45" data-name="Path 45" class="cls-5" d="M23.243,2C12.063,2,3,10.663,3,21.35A19.512,19.512,0,0,0,18.047,40.033L23.243,45l5.2-4.967A19.512,19.512,0,0,0,43.485,21.35C43.485,10.663,34.422,2,23.243,2m0,4.3a6.6,6.6,0,0,1,6.748,6.45,6.6,6.6,0,0,1-6.748,6.45A6.6,6.6,0,0,1,16.5,12.75,6.6,6.6,0,0,1,23.243,6.3m0,30.745a16.4,16.4,0,0,1-13.5-6.923c.068-4.278,9-6.622,13.5-6.622,4.476,0,13.428,2.344,13.5,6.622a16.4,16.4,0,0,1-13.5,6.923" transform="translate(334.757 855.5)"/>
     <text id="_100_Match_6.5_Acceptance" data-name="100% Match | 6.5% Acceptance" class="cls-12" transform="translate(216 208)"><tspan x="-106.101" y="0">100% Match | 6.5% Acceptance</tspan></text>
-    <text id="Based_on_your_profile_we_believe_that_the_University_of_Pennsylvania_would_be_a_great_fit_for_you_" data-name="Based on your profile, we believe that the University of
-Pennsylvania would be a great fit for you!" class="cls-13" transform="translate(9 276)"><tspan x="-196.516" y="17">Based on your profile, we believe that the </tspan><tspan class="cls-14" y="17">University of</tspan><tspan class="cls-14"><tspan x="-149.961" y="38">Pennsylvania</tspan><tspan class="cls-15" y="38" xml:space="preserve"> would be a great fit for you!</tspan></tspan></text>
+    <text id="Based_on_your_current_profile_we_believe_that_the_University_of_Pennsylvania_would_be_a_great_fit_for_you_" data-name="Based on your current profile, we believe that the University of Pennsylvania would be a great fit for you!" class="cls-13" transform="translate(9 276)"><tspan x="-173.602" y="17">Based on your current profile, we believe that the </tspan><tspan class="cls-14" x="-192.488" y="38">University of Pennsylvania</tspan><tspan y="38" xml:space="preserve"> would be a great fit for you!</tspan></text>
     <text id="_Urban_Campus_Philadelphia_1.55M_citizens_Medium_Enrollment_10_610_Undergraduates_Strong_Academics_34_ACT_3.86_GPA_Low_Cost_28_042_year_Average_" data-name="
 ● Urban Campus (Philadelphia; 1.55M citizens)
 ● Medium Enrollment (10,610 Undergraduates) 
 ● Strong Academics (34 ACT, 3.86 GPA)
-● Low Cost ($28,042/year Average) " class="cls-13" transform="translate(45 305)"><tspan x="0" y="17"></tspan><tspan class="cls-16"><tspan x="0" y="38">●</tspan><tspan class="cls-17" y="38"> </tspan><tspan class="cls-18" y="38">Urban Campus </tspan><tspan class="cls-19" y="38">(Philadelphia; 1.55M citizens)</tspan><tspan x="0" y="59">●</tspan><tspan class="cls-19" y="59"> </tspan><tspan class="cls-18" y="59">Medium Enrollment </tspan><tspan class="cls-19" y="59">(10,610 Undergraduates) </tspan></tspan><tspan class="cls-20"><tspan x="0" y="80">●</tspan><tspan class="cls-21" y="80"> </tspan><tspan class="cls-22" y="80">Strong Academics</tspan><tspan class="cls-23" y="80" xml:space="preserve"> (34 ACT, 3.86 GPA)</tspan></tspan><tspan class="cls-16"><tspan x="0" y="101">●</tspan><tspan class="cls-17" y="101"> </tspan><tspan class="cls-18" y="101">Low Cost</tspan><tspan class="cls-19" y="101" xml:space="preserve"> ($28,042/year Average) </tspan></tspan></text>
+● Low Cost ($28,042/year Average) " class="cls-13" transform="translate(45 305)"><tspan x="0" y="17"></tspan><tspan class="cls-15"><tspan x="0" y="38">●</tspan><tspan class="cls-16" y="38"> </tspan><tspan class="cls-17" y="38">Urban Campus </tspan><tspan class="cls-18" y="38">(Philadelphia; 1.55M citizens)</tspan><tspan x="0" y="59">●</tspan><tspan class="cls-18" y="59"> </tspan><tspan class="cls-17" y="59">Medium Enrollment </tspan><tspan class="cls-18" y="59">(10,610 Undergraduates) </tspan></tspan><tspan class="cls-19"><tspan x="0" y="80">●</tspan><tspan class="cls-20" y="80"> </tspan><tspan class="cls-21" y="80">Strong Academics</tspan><tspan class="cls-22" y="80" xml:space="preserve"> (34 ACT, 3.86 GPA)</tspan></tspan><tspan class="cls-15"><tspan x="0" y="101">●</tspan><tspan class="cls-16" y="101"> </tspan><tspan class="cls-17" y="101">Low Cost</tspan><tspan class="cls-18" y="101" xml:space="preserve"> ($28,042/year Average) </tspan></tspan></text>
     <text id="_Computer_Science_B.S._Logic_Information_Computation_B.A._" data-name="
 ● Computer Science (B.S.)
-● Logic, Information, Computation (B.A.)" class="cls-24" transform="translate(45 480)"><tspan x="0" y="16"></tspan><tspan class="cls-25"><tspan x="0" y="36">●</tspan><tspan class="cls-21" y="36"> </tspan><tspan class="cls-22" y="36">Computer Science (B.S.)</tspan><tspan x="0" y="56">●</tspan><tspan class="cls-22" y="56" xml:space="preserve"> Logic, Information, Computation (B.A.)</tspan></tspan></text>
+● Logic, Information, Computation (B.A.)" class="cls-23" transform="translate(45 480)"><tspan x="0" y="16"></tspan><tspan class="cls-24"><tspan x="0" y="36">●</tspan><tspan class="cls-20" y="36"> </tspan><tspan class="cls-21" y="36">Computer Science (B.S.)</tspan><tspan x="0" y="56">●</tspan><tspan class="cls-21" y="56" xml:space="preserve"> Logic, Information, Computation (B.A.)</tspan></tspan></text>
     <text id="_Likewise_with_your_interest_in_Computer_Science_these_majors_could_also_offer_great_courses_of_study:" data-name="
 Likewise, with your interest in Computer Science, 
-these majors could also offer great courses of study:" class="cls-13" transform="translate(9 426)"><tspan x="0" y="17"></tspan><tspan x="-175.516" y="38">Likewise, with your interest in </tspan><tspan class="cls-14" y="38">Computer Science, </tspan><tspan x="-183.863" y="59">these majors could also offer great courses of study:</tspan></text>
+these majors could also offer great courses of study:" class="cls-13" transform="translate(9 426)"><tspan x="0" y="17"></tspan><tspan x="-175.516" y="38">Likewise, with your interest in </tspan><tspan class="cls-25" y="38">Computer Science, </tspan><tspan x="-183.863" y="59">these majors could also offer great courses of study:</tspan></text>
     <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-2" width="267" height="88" rx="18" transform="translate(79 678)"/>
     <text id="Save_to_My_List" data-name="Save to My List" class="cls-26" transform="translate(141 730)"><tspan x="0" y="0">Save to My List</tspan></text>
     <path id="Path_20" data-name="Path 20" class="cls-5" d="M16.711,24.67l-.146.139-.16-.139C9.486,18.664,4.913,14.692,4.913,10.665a4.874,4.874,0,0,1,5.1-4.877,5.728,5.728,0,0,1,5.2,3.289H17.92a5.728,5.728,0,0,1,5.2-3.289,4.874,4.874,0,0,1,5.1,4.877c0,4.027-4.573,8-11.506,14.005M23.119,3a8.927,8.927,0,0,0-6.554,2.9A8.927,8.927,0,0,0,10.011,3,7.758,7.758,0,0,0,2,10.665c0,5.254,4.952,9.56,12.453,16.068l2.112,1.839,2.112-1.839c7.5-6.508,12.453-10.814,12.453-16.068A7.758,7.758,0,0,0,23.119,3" transform="translate(99.827 704.886)"/>
