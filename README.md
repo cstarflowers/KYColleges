@@ -1,4 +1,4 @@
-# EKU Admissions
+# KYColleges
 _Internship (12th)_, Computer Science @ Ignite
 
 ## Information
