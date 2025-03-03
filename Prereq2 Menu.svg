@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="932" viewBox="0 0 430 932">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Prereq2_Menu);
+      }
+
+      .cls-2 {
+        fill: #224039;
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+        font-family: Sitka Heading;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Prereq2_Menu">
+      <rect width="430" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Prereq2_Menu" data-name="Prereq2 Menu" class="cls-1">
+    <g id="Rectangle_63" data-name="Rectangle 63" class="cls-2" transform="translate(70 340)">
+      <rect class="cls-5" width="300" height="132"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="299" height="131"/>
+    </g>
+    <path id="Path_38" data-name="Path 38" class="cls-3" d="M11.18,15.83,6.543,9.2A1.4,1.4,0,0,1,7.689,7h8.622a1.4,1.4,0,0,1,1.147,2.2L12.819,15.83a1,1,0,0,1-1.638,0" transform="translate(345.713 344)"/>
+    <text id="Computer_Science" data-name="Computer Science" class="cls-4" transform="translate(76 363)"><tspan x="0" y="0">Computer Science</tspan></text>
+    <text id="Mathematics" class="cls-4" transform="translate(76 389)"><tspan x="0" y="0">Mathematics</tspan></text>
+    <text id="Linguistics" class="cls-4" transform="translate(76 415)"><tspan x="0" y="0">Linguistics</tspan></text>
+    <text id="Digital_Art" data-name="Digital Art" class="cls-4" transform="translate(76 440)"><tspan x="0" y="0">Digital Art</tspan></text>
+    <text id="Music_Theory" data-name="Music Theory" class="cls-4" transform="translate(76 462)"><tspan x="0" y="0">Music Theory</tspan></text>
+  </g>
+</svg>
