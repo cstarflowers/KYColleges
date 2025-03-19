@@ -1,0 +1,17 @@
+.green_rect {
+  fill: #30574e;
+}
+
+.menu_bar {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+.raised_text {
+  position: absolute;
+  top: 120px;
+  bottom: center;
+  right: center;
+  left: center;
+}
