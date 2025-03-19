@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="932" viewBox="0 0 430 932">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Menu_-_GPA_Selection);
+      }
+
+      .cls-2 {
+        fill: #224039;
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+        font-family: Sitka Heading;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Menu_-_GPA_Selection">
+      <rect width="430" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_-_GPA_Selection" data-name="Menu - GPA Selection" class="cls-1">
+    <g id="Rectangle_60" data-name="Rectangle 60" class="cls-2" transform="translate(223 498)">
+      <rect class="cls-5" width="147" height="158"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="146" height="157"/>
+    </g>
+    <path id="Path_36" data-name="Path 36" class="cls-3" d="M11.18,15.83,6.543,9.2A1.4,1.4,0,0,1,7.689,7h8.622a1.4,1.4,0,0,1,1.147,2.2L12.819,15.83a1,1,0,0,1-1.638,0" transform="translate(345.713 502)"/>
+    <text id="_3.8-4.0" data-name="3.8-4.0" class="cls-4" transform="translate(230 520)"><tspan x="0" y="0">3.8-4.0</tspan></text>
+    <text id="_3.6-3.8" data-name="3.6-3.8" class="cls-4" transform="translate(230 544)"><tspan x="0" y="0">3.6-3.8</tspan></text>
+    <text id="_3.4-3.6" data-name="3.4-3.6" class="cls-4" transform="translate(230 566)"><tspan x="0" y="0">3.4-3.6</tspan></text>
+    <text id="_3.2-3.4" data-name="3.2-3.4" class="cls-4" transform="translate(230 588)"><tspan x="0" y="0">3.2-3.4</tspan></text>
+    <text id="_3.0-3.2" data-name="3.0-3.2" class="cls-4" transform="translate(230 608)"><tspan x="0" y="0">3.0-3.2</tspan></text>
+    <text id="_2.8-3.0" data-name="2.8-3.0" class="cls-4" transform="translate(230 628)"><tspan x="0" y="0">2.8-3.0</tspan></text>
+    <text id="_2.6-2.8" data-name="2.6-2.8" class="cls-4" transform="translate(230 648)"><tspan x="0" y="0">2.6-2.8</tspan></text>
+  </g>
+</svg>
