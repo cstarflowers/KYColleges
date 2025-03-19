@@ -9,18 +9,14 @@ export default function Index() {
     <View
       style={{
         flex: 1,
-        justifyContent: "flex-start",
+        justifyContent: "center",
         alignItems: "center",
       }}
     >
       <div className="on-image">
 <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="430" height="932" viewBox="0 0 430 932">
   <g id="_School_Profile_2" data-name="School Profile – 2" className="cls-1">
-     <text id="Great_News_The_University_of_Pennsylvania_appears_to_be_a_100_match_based_on_your_profile:_For_more_information_please_review_Penn_s_website_Based_on_your_major_selection_of_Computer_Science_we_would_recommend_looking_into_the_following_program" data-name="Great News! The University of Pennsylvania appears to be a 100% match based on your profile:
-
-For more information, please review Penn&apos;s website!
-
-Based on your major selection of Computer Science, we would recommend looking into the following program" className="cls-7" transform="translate(9 183)"><tspan x="-202.699" y="17">Great News! The University of Pennsylvania appears to be </tspan><tspan x="-131.992" y="38">a </tspan><tspan className="cls-8" y="38">100% match</tspan><tspan y="38" xmlSpace="preserve"> based on your profile:</tspan><tspan x="0" y="59"></tspan><tspan x="0" y="80"></tspan><tspan x="0" y="101"></tspan><tspan x="0" y="122"></tspan><tspan x="0" y="143"></tspan><tspan x="0" y="164"></tspan><tspan x="-183.355" y="185">For more information, please review </tspan><tspan className="cls-9" y="185">Penn&apos;s website!</tspan><tspan className="cls-9"><tspan x="0" y="206"></tspan></tspan><tspan x="-200.109" y="227">Based on your major selection of </tspan><tspan className="cls-8" y="227">Computer Science, </tspan><tspan y="227">we </tspan><tspan x="-197.559" y="248">would recommend looking into the following programs:</tspan><tspan x="0" y="269"></tspan></text>
+     <text id="Penn" className="cls-7" transform="translate(9 183)"><tspan x="-202.699" y="17">Great News! The University of Pennsylvania appears to be </tspan><tspan x="-131.992" y="38">a </tspan><tspan className="cls-8" y="38">100% match</tspan><tspan y="38" xmlSpace="preserve"> based on your profile:</tspan><tspan x="0" y="59"></tspan><tspan x="0" y="80"></tspan><tspan x="0" y="101"></tspan><tspan x="0" y="122"></tspan><tspan x="0" y="143"></tspan><tspan x="0" y="164"></tspan><tspan x="-183.355" y="185">For more information, please review </tspan><tspan className="cls-9" y="185">Penn&apos;s website!</tspan><tspan className="cls-9"><tspan x="0" y="206"></tspan></tspan><tspan x="-200.109" y="227">Based on your major selection of </tspan><tspan className="cls-8" y="227">Computer Science, </tspan><tspan y="227">we </tspan><tspan x="-197.559" y="248">would recommend looking into the following programs:</tspan><tspan x="0" y="269"></tspan></text>
     <rect id="eN42FAb" className="cls-10" width="55" height="85" transform="translate(37 13)"/>
     <text id="University_of_Pennsylvania" data-name="University of Pennsylvania" className="cls-11" transform="translate(26 164)"><tspan x="0" y="0">University of Pennsylvania</tspan></text>
     <text id="_Urban_Campus_Philadelphia_1.55M_citizens_Medium_Enrollment_10_610_Undergraduates_Strong_Academics_34_ACT_3.86_GPA_Low_Cost_28_042_year_Average_" data-name="

@@ -15,3 +15,8 @@
   right: center;
   left: center;
 }
+
+.home_button {
+  position: absolute;
+  transform: translate(0, -20);
+}
