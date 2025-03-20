@@ -10,7 +10,7 @@
 
 .raised_text {
   position: absolute;
-  top: 120px;
+  top: 250px;
   bottom: center;
   right: center;
   left: center;
@@ -19,4 +19,12 @@
 .home_button {
   position: absolute;
   transform: translate(0, -20);
+}
+
+.banner {
+  position: absolute;
+  object-fit: contain;
+  width: 430px;
+  height: 160px;
+  transform: translate(0,100);
 }
