@@ -1,0 +1,64 @@
+.menuGpaSelectionChild {
+  position: absolute;
+  top: 498px;
+  right: 60px;
+  background-color: var(--color-darkslategray-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 147px;
+  height: 158px;
+}
+.path36Icon {
+  position: absolute;
+  top: 509px;
+  right: 66.6px;
+  width: 11.4px;
+  height: 9.3px;
+}
+.div {
+  position: absolute;
+  top: 505px;
+  left: 230px;
+}
+.div1 {
+  position: absolute;
+  top: 529px;
+  left: 230px;
+}
+.div2 {
+  position: absolute;
+  top: 551px;
+  left: 230px;
+}
+.div3 {
+  position: absolute;
+  top: 573px;
+  left: 230px;
+}
+.div4 {
+  position: absolute;
+  top: 593px;
+  left: 230px;
+}
+.div5 {
+  position: absolute;
+  top: 613px;
+  left: 230px;
+}
+.div6 {
+  position: absolute;
+  top: 633px;
+  left: 230px;
+}
+.menuGpaSelection {
+  position: relative;
+  width: 430px;
+  height: 932px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

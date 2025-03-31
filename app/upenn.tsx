@@ -2,7 +2,7 @@ import { Text, View } from "react-native";
 import React from 'react';
 import Header from './_header';
 import Footer from './_footer';
-import './backup_styles.css';
+import './imported_styles.css';
 
 export default function Index() {
   return (

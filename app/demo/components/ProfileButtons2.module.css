@@ -1,0 +1,110 @@
+.profileButtons2Child {
+  position: absolute;
+  top: 700px;
+  left: 80px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray-100);
+  width: 267px;
+  height: 88px;
+}
+.saved {
+  position: absolute;
+  top: 721.5px;
+  left: 141.5px;
+  white-space: pre-wrap;
+  -webkit-text-stroke: 1px #fff;
+}
+.path20Icon {
+  position: absolute;
+  top: 729.89px;
+  left: 102.83px;
+  width: 29.1px;
+  height: 25.6px;
+}
+.path23Icon {
+  position: absolute;
+  top: 730.89px;
+  left: 102.83px;
+  width: 29.1px;
+  height: 23.7px;
+}
+.path41Icon {
+  position: absolute;
+  bottom: 29.65px;
+  left: 182.7px;
+  width: 64.3px;
+  height: 55.1px;
+}
+.en42fabIcon {
+  position: absolute;
+  top: 13px;
+  left: 37px;
+  width: 55px;
+  height: 85px;
+  object-fit: cover;
+}
+.saveToMy {
+  position: absolute;
+  top: 721.5px;
+  left: 141.5px;
+  -webkit-text-stroke: 1px #fff;
+}
+.profileButtons2Inner {
+  position: absolute;
+  top: 596px;
+  left: 80px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray-100);
+  width: 267px;
+  height: 88px;
+}
+.viewPhotos {
+  position: absolute;
+  top: 618.5px;
+  left: 141.5px;
+  white-space: pre-wrap;
+  -webkit-text-stroke: 1px #fff;
+}
+.path47Icon {
+  position: absolute;
+  top: 626.77px;
+  left: 108.13px;
+  width: 30.5px;
+  height: 25.5px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 596px;
+  left: 80px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray-100);
+  width: 267px;
+  height: 88px;
+  cursor: pointer;
+}
+.switchView {
+  position: absolute;
+  top: 621.5px;
+  left: 138.5px;
+  white-space: pre-wrap;
+  -webkit-text-stroke: 1px #fff;
+}
+.path49Icon {
+  position: absolute;
+  top: 625.77px;
+  left: 107.13px;
+  width: 35.9px;
+  height: 33.5px;
+}
+.profileButtons2 {
+  position: relative;
+  width: 430px;
+  height: 932px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* Fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xs: 8px;
+  --font-size-3xs: 10px;
+  --font-size-smi: 13px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-mid: 17px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-33xl: 52px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-darkgray: #a6a6a6;
+  --color-darkslategray-100: #30574e;
+  --color-darkslategray-200: #224039;
+  --color-darkslategray-300: #203933;
+  --color-dimgray: #707070;
+  --color-gray-100: #0b0a0a;
+  --color-gray-200: rgba(0, 0, 0, 0.39);
+  --color-gray-300: rgba(0, 0, 0, 0.38);
+  --color-indianred: #ca4747;
+  --color-khaki: #cdc94d;
+  --color-mediumaquamarine: #6bc9a4;
+  --color-seagreen: #398d6c;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-4xs: 9px;
+  --br-lg: 18px;
+  --br-xl: 20px;
+  --br-16xl: 35px;
+  --br-39xl: 58px;
+  --br-106xl: 125px;
+}
