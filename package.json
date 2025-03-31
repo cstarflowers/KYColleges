@@ -33,7 +33,7 @@
     "expo-web-browser": "~14.0.2",
     "npm-git-install": "^0.2.0",
     "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react-dom": "^18.3.1",
     "react-native": "0.76.7",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
@@ -41,7 +41,11 @@
     "react-native-screens": "~4.4.0",
     "react-native-web": "~0.19.13",
     "react-native-webview": "13.12.5",
-    "web-vitals": "^4.2.4"
+    "react-router": "^7.4.1",
+    "react-router-dom": "^7.4.1",
+    "vite": "^6.2.4",
+    "web-vitals": "^4.2.4",
+    "webpack": "^5.98.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
