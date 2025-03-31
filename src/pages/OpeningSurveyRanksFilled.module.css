@@ -1,0 +1,350 @@
+.openingSurveyRanksFilledChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-mediumaquamarine);
+  width: 430px;
+  height: 101px;
+}
+.openingSurveyRanksFilledItem {
+  position: absolute;
+  top: 50px;
+  right: 32px;
+  background-color: var(--color-white);
+  width: 54px;
+  height: 36px;
+}
+.kyc {
+  position: absolute;
+  top: 42px;
+  left: 25px;
+  font-size: var(--font-size-33xl);
+}
+.helpUsNarrow {
+  position: absolute;
+  top: 186px;
+  left: 41px;
+  color: var(--color-black);
+}
+.openingSurveyRanksFilledInner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-darkslategray-100);
+  width: 430px;
+  height: 101px;
+}
+.lineDiv {
+  position: absolute;
+  top: 53.94px;
+  right: 28.6px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 38.9px;
+  height: 6px;
+}
+.openingSurveyRanksFilledChild1 {
+  position: absolute;
+  top: 63.72px;
+  right: 28.6px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 38.9px;
+  height: 6px;
+}
+.openingSurveyRanksFilledChild2 {
+  position: absolute;
+  top: 73.5px;
+  right: 28.6px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 38.9px;
+  height: 6px;
+}
+.rectangleDiv {
+  position: absolute;
+  bottom: -8px;
+  left: 0px;
+  background-color: var(--color-darkslategray-100);
+  width: 430px;
+  height: 118px;
+}
+.path4Icon {
+  position: absolute;
+  bottom: 132px;
+  left: 200.19px;
+  width: 26.6px;
+  height: 0px;
+}
+.openingSurveyRanksFilledChild3 {
+  position: absolute;
+  bottom: -3px;
+  left: 139px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-darkslategray-300);
+  width: 152px;
+  height: 115px;
+}
+.openingSurveyRanksFilledChild4 {
+  position: absolute;
+  bottom: 0px;
+  left: 139px;
+  background-color: var(--color-darkslategray-300);
+  width: 152px;
+  height: 53px;
+}
+.path1Icon {
+  position: absolute;
+  bottom: 36.25px;
+  left: 55px;
+  width: 42px;
+  height: 39.5px;
+}
+.welcomeCarson {
+  position: absolute;
+  top: 153.5px;
+  left: 20.5px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  -webkit-text-stroke: 1px #000;
+}
+.en42fabIcon {
+  position: absolute;
+  top: 13px;
+  left: 37px;
+  width: 55px;
+  height: 85px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.defaultAvatarProfileIconSo {
+  position: absolute;
+  top: 130px;
+  right: 24px;
+  border-radius: var(--br-106xl);
+  width: 96px;
+  height: 91px;
+  object-fit: cover;
+}
+.openingSurveyRanksFilledChild5 {
+  position: absolute;
+  top: 275px;
+  left: 12px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-100);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 408px;
+  height: 359px;
+}
+.openingSurveyRanksFilledChild6 {
+  position: absolute;
+  top: 330px;
+  right: 59px;
+  background-color: var(--color-darkslategray-200);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 249px;
+  height: 36px;
+}
+.tuitioncost {
+  position: absolute;
+  top: 339px;
+  left: 133px;
+}
+.openingSurveyRanksFilledChild7 {
+  position: absolute;
+  top: 390px;
+  right: 59px;
+  background-color: var(--color-darkslategray-200);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 249px;
+  height: 36px;
+}
+.location {
+  position: absolute;
+  top: 399px;
+  left: 133px;
+}
+.openingSurveyRanksFilledChild8 {
+  position: absolute;
+  top: 450px;
+  right: 59px;
+  background-color: var(--color-darkslategray-200);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 249px;
+  height: 36px;
+}
+.size {
+  position: absolute;
+  top: 459px;
+  left: 133px;
+}
+.openingSurveyRanksFilledChild9 {
+  position: absolute;
+  top: 510px;
+  right: 59px;
+  background-color: var(--color-darkslategray-200);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 249px;
+  height: 36px;
+}
+.major {
+  position: absolute;
+  top: 519px;
+  left: 133px;
+}
+.openingSurveyRanksFilledChild10 {
+  position: absolute;
+  top: 570px;
+  right: 59px;
+  background-color: var(--color-darkslategray-200);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 249px;
+  height: 36px;
+}
+.extracurriculars {
+  position: absolute;
+  top: 579px;
+  left: 133px;
+}
+.path17Icon {
+  position: absolute;
+  top: 648.19px;
+  right: 29.79px;
+  width: 114.7px;
+  height: 42.7px;
+  cursor: pointer;
+}
+.continue {
+  position: absolute;
+  top: 660px;
+  right: 62px;
+  font-size: var(--font-size-base);
+  text-align: center;
+}
+.path28Icon {
+  position: absolute;
+  top: 648.19px;
+  right: 29.79px;
+  width: 114.7px;
+  height: 42.7px;
+}
+.path33Icon {
+  position: absolute;
+  top: 664.52px;
+  right: 42.5px;
+  width: 13.5px;
+  height: 13.5px;
+}
+.collegeHallIcon {
+  position: absolute;
+  top: 101px;
+  left: 0px;
+  width: 430px;
+  height: 156px;
+  object-fit: cover;
+}
+.openingSurveyRanksFilledChild11 {
+  position: absolute;
+  top: 101px;
+  left: 0px;
+  background-color: var(--color-gray-200);
+  width: 430px;
+  height: 156px;
+}
+.helpUsNarrow1 {
+  position: absolute;
+  top: 190px;
+  left: 41px;
+}
+.welcomeCarson1 {
+  position: absolute;
+  top: 153.5px;
+  left: 20.5px;
+  font-size: var(--font-size-13xl);
+  -webkit-text-stroke: 1px #fff;
+}
+.div {
+  position: absolute;
+  top: 328px;
+  left: 71px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 51px;
+}
+.div1 {
+  position: absolute;
+  top: 388px;
+  left: 71px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 51px;
+}
+.div2 {
+  position: absolute;
+  top: 448px;
+  left: 71px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 51px;
+}
+.div3 {
+  position: absolute;
+  top: 508px;
+  left: 71px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 51px;
+}
+.div4 {
+  position: absolute;
+  top: 568px;
+  left: 71px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 51px;
+}
+.path41Icon {
+  position: absolute;
+  bottom: 29.65px;
+  left: 182.7px;
+  width: 64.3px;
+  height: 55.1px;
+}
+.path45Icon {
+  position: absolute;
+  right: 51.74px;
+  bottom: 31.5px;
+  width: 40.5px;
+  height: 43px;
+}
+.pleaseRankThe {
+  position: absolute;
+  top: 298px;
+  left: 65px;
+  font-size: var(--font-size-lg);
+}
+.nopathCopy45 {
+  position: absolute;
+  top: 134px;
+  right: 19px;
+  border-radius: var(--br-106xl);
+  width: 103px;
+  height: 100px;
+  object-fit: cover;
+}
+.openingSurveyRanksFilled {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

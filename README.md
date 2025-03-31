@@ -1,13 +1,10 @@
-# KYColleges
-_Internship (12th)_, Computer Science @ Ignite
 
-## Information
-An application created by Rise Up Academics:
-- Carson Stary
-- Ethan Welch
-- Renae UpChurch
+  # Test Project
 
-## What is KYColleges?
-Created for Eastern Kentucky University and Rise Up Academics, this app aims to connect high school students across Kentucky with colleges using a matching algorithm and  "connections" system based on their preferences! It is currently in early development, but is scheduled to be picked up throughout the 2026 academic year and completed.
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-__Download Coming Soon!__
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
