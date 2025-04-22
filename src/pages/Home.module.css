@@ -55,22 +55,7 @@
   height: 135px;
   object-fit: cover;
 }
-.cornellUniversity {
-  position: absolute;
-  top: 449.5px;
-  left: 33.5px;
-  font-size: var(--font-size-lg);
-  -webkit-text-stroke: 1px #fff;
-}
-.ithacaNy {
-  margin: 0;
-}
-.ithacaNyDueContainer {
-  position: absolute;
-  top: 470px;
-  left: 54px;
-  font-size: var(--font-size-smi);
-}
+
 .yourMatches {
   position: absolute;
   top: 550.5px;
@@ -184,14 +169,6 @@
   box-sizing: border-box;
   width: 180px;
   height: 189px;
-}
-.image3Icon2 {
-  position: absolute;
-  top: 592px;
-  right: 30px;
-  width: 185px;
-  height: 135px;
-  object-fit: cover;
 }
 .universityOfKentucky {
   position: absolute;

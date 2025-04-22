@@ -40,13 +40,6 @@ const Home: FunctionComponent = () => {
         alt=""
         src="/360-f-135902796-alc9asbpfwjapmhegul4i9qsecld6ui7@2x.png"
       />
-      <img className={styles.path4Icon} alt="" src="/path-4.svg" />
-      <img className={styles.image3Icon} alt="" src="/image-3@2x.png" />
-      <div className={styles.cornellUniversity}>Cornell University</div>
-      <div className={styles.ithacaNyDueContainer}>
-        <p className={styles.ithacaNy}>{`📍 Ithaca, NY `}</p>
-        <p className={styles.ithacaNy}>Due 01/02/2025</p>
-      </div>
       <div className={styles.yourMatches}>Your Matches</div>
       <div className={styles.rectangleDiv} onClick={onRectangleClick} />
       <img className={styles.image3Icon1} alt="" src="/image-3@2x.png" />
@@ -65,7 +58,6 @@ const Home: FunctionComponent = () => {
       <div className={styles.homeChild4} />
       <div className={styles.major}> Major</div>
       <div className={styles.homeChild5} />
-      <img className={styles.image3Icon2} alt="" src="/image-3@2x.png" />
       <div className={styles.universityOfKentucky}>University of Kentucky</div>
       <div className={styles.lexingtonKy}>📍 Lexington, KY</div>
       <div className={styles.homeChild6} />

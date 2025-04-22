@@ -165,7 +165,7 @@ const ProfileUofLFavorite: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeProfileButtons2}
         >
-          <ProfileButtons2 onClose={closeProfileButtons2} />
+          <ProfileButtons2/>
         </PortalPopup>
       )}
     </>

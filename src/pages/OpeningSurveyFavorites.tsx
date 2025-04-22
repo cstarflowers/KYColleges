@@ -126,7 +126,7 @@ const OpeningSurveyFavorites: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeMenuFinishButton}
         >
-          <MenuFinishButton onClose={closeMenuFinishButton} />
+          <MenuFinishButton/>
         </PortalPopup>
       )}
     </>

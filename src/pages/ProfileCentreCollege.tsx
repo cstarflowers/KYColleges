@@ -149,7 +149,7 @@ const ProfileCentreCollege: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeProfileButtons}
         >
-          <ProfileButtons onClose={closeProfileButtons} />
+          <ProfileButtons/>
         </PortalPopup>
       )}
     </>

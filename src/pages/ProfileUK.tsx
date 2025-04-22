@@ -154,7 +154,7 @@ const ProfileUK: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeProfileButtons3}
         >
-          <ProfileButtons3 onClose={closeProfileButtons3} />
+          <ProfileButtons3/>
         </PortalPopup>
       )}
     </>

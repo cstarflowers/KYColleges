@@ -128,7 +128,7 @@ const OpeningSurveyMajorStats: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeMenuACTSATSelection}
         >
-          <MenuACTSATSelection onClose={closeMenuACTSATSelection} />
+          <MenuACTSATSelection/>
         </PortalPopup>
       )}
       {isMenuGPASelectionOpen && (
@@ -137,7 +137,7 @@ const OpeningSurveyMajorStats: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeMenuGPASelection}
         >
-          <MenuGPASelection onClose={closeMenuGPASelection} />
+          <MenuGPASelection/>
         </PortalPopup>
       )}
       {isMenuMajorSelectionOpen && (
@@ -146,7 +146,7 @@ const OpeningSurveyMajorStats: FunctionComponent = () => {
           placement="Centered"
           onOutsideClick={closeMenuMajorSelection}
         >
-          <MenuMajorSelection onClose={closeMenuMajorSelection} />
+          <MenuMajorSelection/>
         </PortalPopup>
       )}
     </>
