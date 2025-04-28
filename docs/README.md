@@ -1,2 +1,4 @@
 # KYColleges Docs
-This is a placeholder
+Hello! If you're reading this, you're likely looking for documentation on how to manage the KYColleges prototype(s); I'm happy to say that you've come to the right place! In this subfolder, you should find information about how to use major pieces of software (including XD, Expo, and NPM), as well as tips/tricks for how we used tools like TypeScript and CSS to develop our application. Before you actually begin your development process, I encourage you to read up on the pieces that you may be unfamiliar with, as well as plan out a path for how you'd like to implement your suggested changes rather than simply committing them to this GitHub page and hoping for the best (a trap I've unfortunately fallen into far too many times...)! 
+
+As always, if you have any questions, you can always reach out to Carson via email at starofluca@gmail.com! Happy developing!
