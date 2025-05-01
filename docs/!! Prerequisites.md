@@ -18,5 +18,3 @@ Congratulations, if you've been following the above steps, you've officially cre
 
 ## Adobe XD
 Adobe XD is the app that we primarily use to design new pages for the application, and can only be downloaded with an [Adobe premium subscription](https://www.adobe.com/creativecloud/plans.html). Good news: the Boone County School District can give out a set number of these subscriptions for free every year, so you'll want to connect with Mrs. Brown (sarah.brown@boone.kyschools.us) as soon as you can. This process may also take a few weeks to go through, so you may also want to follow up pretty regularly to ensure that they're still on track. If all else fails, design students should also automatically have Adobe accounts, and sharing an account can be a good alternative to waiting months for approval if the county is still struggling after a month or two.
-
-[To Be Continued...]
