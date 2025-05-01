@@ -11,4 +11,9 @@ From there, you'll want to download this GitHub repository and move it into your
 
 > _NOTE:_ If you are unsure of the location of your new folder, you can right click on it and then select "Copy Address". Paste this into Command Prompt as described above.
 
+To start the project, you can run `npm start`, then open the weblink http://localhost:8081/. The URLs and subpages may be slightly different depending on whether you're operating the beta/main version; you will also need to re-install the dependencies each time you switch between versions in the GitHub.
+
+## GitHub
+Once you have the repository installed, you'll likely want to link the GitHub repository to the program in NPM so that you can update it automatically! To do this, I recommend installing [GitHub Desktop](https://github.com/apps/desktop), but you can also use the [Git command prompt](https://git-scm.com/) if you so choose. In terms of GitHub Desktop, once you've logged in, you'll want to fork this repository (Unsure of how? [Check out this link!](https://git-scm.com/)\) so you have a copy you can modify yourself. Then, in the left corner, click "Add" to create a new repository, "Clone Repository", and select your fork from GitHub. **Make sure to change the file location to the same address you installed NPM above.**, and then confirm. Once it's complete, click "Fetch Repository" and, complete any initial commit it asks you to make using the "Commit to XXXX" button on the bottom left.
+
 [To Be Continued...]
