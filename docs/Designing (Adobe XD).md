@@ -24,4 +24,7 @@ Sharing a prototype will give the people who need to see your project but don't 
 > NOTE: When you share a prototype on Adobe XD, it does not expire! The users who have access to this link will be able to view that version of the app forever, until you go back and click "Update Link" to give them access to the latest version. At this time, I don't believe there is a way to delete links after they have been generated -- it's thus important to ensure beforehand that no sensitive information is published in these prototypes!
 
 ## Exporting
+Occasionally, you may also want to export the designs you create in CSS so that you can edit them in ReactJS! To do so, click "File" in the top left corner and then "Export", "All Artboards." You'll typically want to export them as SVG files with "Internal CSS" styling into a folder you can easily access. Similarly, if you tap "Plugins" then "Locofy.ai", you'll also be able to convert select artboards at a time from CSS into ReactJS! It doesn't work with complete certainty, but can provide a strong start if you're stuck on how to convert a page yourself if you simply drag the resulting files into your local NPM repository and then run it via `npm start`. 
+
+For tutorial images, please see the following guide:
 [To Be Continued...]
