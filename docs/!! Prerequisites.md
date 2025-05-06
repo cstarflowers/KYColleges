@@ -1,4 +1,6 @@
-# Prerequisites!
+# Prerequisites
+> NOTE: **Please make sure to properly set up everything in this README before you begin to work on the app**! If you start working before these items are properly installed, you may run into a roadblock or a critical error that can't be fixed until you do.
+
 Before you can begin to run the Expo and/or Locofy application, you will need to install a few prerequisites onto your computer. Please ensure you have a decent amount of storage space available, and remember to only download files from the *official* source linked.
 
 ## NodeJS (NPM)
