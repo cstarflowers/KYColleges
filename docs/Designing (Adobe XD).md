@@ -1,4 +1,14 @@
 # Designing (Adobe XD)
 For information about the initial installation of Adobe XD, please check out the Prerequisites README file. Once you have Adobe XD installed (and logged in to an Adobe account), return here for additional information about setting up and modifying the project!
 
-[To Be Continued...]
+## Save Downloading
+When you initially make your Adobe XD account, you'll need to be granted access to the project via email by Laura. When you do, you should see several different prototypes under the "Shared with you" tab -- named the "EKU+ Cloud - January '25 BETA" and "KYColleges - March '25 KY DEMO". The EKU+ app is final build of the original app created for this project, while the KYColleges project is the most recent college search version we created as a proof of concept. When you first begin to make changes, you should click the **three-dot menu next to the March 2025 demo and create a copy using "Duplicate"**. Then, follow the same naming structure to title it (e.g. "KYColleges - August '25 ALPHA") -- with alpha being the first development version, beta being the second, and demo being any version not intended for public release.
+
+## UI Navigation
+From there, if it hasn't already opened the new project, you can double tap it to open. When you do, it'll open to a screen that looks something like [this](https://i.imgur.com/C58mTtk.png) (if this link expires, try [viewing the album](https://imgur.com/a/eUbtQCo) instead), where there are a few key panels/feature that you'll want to keep in mind:
+
+### Design 
+The design tab and the left hotbar contain the shapes and basic tools that Adobe XD allows you to use to design new pages (called "artboards"). To create a new one, you can create a copy of a previous page using CTRL+C and CTRL+V or tap "A" (to select the tool that looks like a page, directly above the magnifying glass) and then left click on an empty space. From there, the default tool on the far left hotbar will be select to allow you to modify existing artboards, while the rest will be to create new shapes (from top to bottom: squares, circles, lines, and squiggles) or text boxes! 
+
+Similarly, when you select any artboard or component (e.g. a shape or text box), you should also see an additional display pop up on the right with information about its location, color, scale, and more! This is what you'll primarily need to design new pages, and should be relatively self-explanatory with its item labels. However, if you'd like some more specific information about what each button in this tab does, I recommend taking a look at the tabs under "Design" in the [Adobe XD documentation](https://helpx.adobe.com/xd/help/get-started-with-artboards-in-XD.html)!
+> NOTE: When selecting multiple items at once (either by highlighting or holding CTRL/SHIFT), the transform deminsions will reflect the total X, Y, Z values rather than the average. This means that if you're adjusting the scale of several items at once, it is typically better to do so individually, or to ensure that you account for this change in your calculations.
