@@ -22,3 +22,6 @@ To run the prototype, you'll need to create or use a pre-existing "Flow", which 
 ### Share
 Sharing a prototype will give the people who need to see your project but don't have access in Adobe XD permissions to navigate through it in a web browser like Chrome or Safari! To do so, you'll also need to set up a Flow (or select an existing one), and then click "Generate Link" on your right. In that panel, you'll also see some customizable options about their permissions and who can access this link -- both of which I recommend to setting as "User Testing"/"Development" and "Anyone with the Link" in order to maximize access for those who you send the address to. And, if you'd like, the "Custom" tab also provides some helpful options for ensuring correct access to the prototype, with more information available [here](https://helpx.adobe.com/xd/help/share-designs-prototypes.html).
 > NOTE: When you share a prototype on Adobe XD, it does not expire! The users who have access to this link will be able to view that version of the app forever, until you go back and click "Update Link" to give them access to the latest version. At this time, I don't believe there is a way to delete links after they have been generated -- it's thus important to ensure beforehand that no sensitive information is published in these prototypes!
+
+## Exporting
+[To Be Continued...]
