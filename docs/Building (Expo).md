@@ -1,4 +1,4 @@
-# Building (Expo -- https://expo.dev)
+# Building (Expo)
 Expo is one of the most important applications we used to develop the original KYColleges app, but likely not one that you'll have to interact with much as you continue to deploy updates. They have their own documentation available [here](https://docs.expo.dev/), but the following will provide some quick tips and important info for getting started as well:
 
 ## Repository Access
