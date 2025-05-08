@@ -26,5 +26,5 @@ Sharing a prototype will give the people who need to see your project but don't 
 ## Exporting
 Occasionally, you may also want to export the designs you create in CSS so that you can edit them in ReactJS! To do so, click "File" in the top left corner and then "Export", "All Artboards." You'll typically want to export them as SVG files with "Internal CSS" styling into a folder you can easily access. Similarly, if you tap "Plugins" then "Locofy.ai", you'll also be able to convert select artboards at a time from CSS into ReactJS! It doesn't work with complete certainty, but can provide a strong start if you're stuck on how to convert a page yourself if you simply drag the resulting files into your local NPM repository and then run it via `npm start`. 
 
-For tutorial images, please see the following guide:
+For a brief tutorial, please see the following guide: https://youtu.be/CsjtuNIZJb8
 [To Be Continued...]
