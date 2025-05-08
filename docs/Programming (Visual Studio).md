@@ -1,0 +1,2 @@
+# Programming (Visual Studio)
+Occasionally, issues will arise with your Loco.fy exports and you may be required to modify code or re-write original TypeScript using the React API. This document will contain some basic information about quick-tip troubleshooting and coding, while more detailed instructions can be found in the [NodeJS Documentation](https://nodejs.org/en/learn/getting-started/debugging).
