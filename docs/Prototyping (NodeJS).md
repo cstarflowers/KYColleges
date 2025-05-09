@@ -5,7 +5,5 @@ If you haven't yet setup NodeJS, please read about the prerequisites in further 
 Web prototypes are hosted on localhost ports 3100 and 8081 by default (http://localhost), and can be run using the `npm start` command once you've navigated to the correct folder on your computer. For both the /beta/ and /main/ branches, the APIs they call to start the software will differ so there will be some visual and usage differences; make sure you know which you're running before you begin working.
 
 ### Expo-Router (/Main/)
-
-
 ### React-Router (/Beta/)
 __To Be Continued...__
