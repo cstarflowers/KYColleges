@@ -24,6 +24,7 @@
   height: 135px;
   object-fit: cover;
 }
+
 .cornellUniversity {
   position: absolute;
   top: 449.5px;
@@ -149,13 +150,26 @@
   position: absolute;
   top: 709.5px;
   right: 47.5px;
+  left: 220px;
   font-size: var(--font-size-base);
   -webkit-text-stroke: 1px #fff;
 }
 .lexingtonKy {
   position: absolute;
   top: 727px;
-  left: 252px;
+  left: 240px;
+  font-size: var(--font-size-smi);
+}
+.louisvilleKy {
+  position: absolute;
+  top: 460px;
+  left: 60px;
+  font-size: var(--font-size-smi);
+}
+.louisvilleKyDue {
+  position: absolute;
+  top: 480px;
+  left: 60px;
   font-size: var(--font-size-smi);
 }
 .homeFilterExpandedChild4 {

@@ -42,7 +42,6 @@ const Home: FunctionComponent = () => {
       />
       <div className={styles.yourMatches}>Your Matches</div>
       <div className={styles.rectangleDiv} onClick={onRectangleClick} />
-      <img className={styles.image3Icon1} alt="" src="/image-3@2x.png" />
       <div className={styles.centreCollege}>Centre College</div>
       <div className={styles.danvilleKy}>📍 Danville, KY</div>
       <div className={styles.homeChild1} />
@@ -51,6 +50,7 @@ const Home: FunctionComponent = () => {
         alt=""
         src="/nopath--copy-18@2x.png"
       />
+      <img className={styles.en42fabIcon} alt="" src="/en42fab@2x.png" />
       <div className={styles.homeChild2} />
       <div className={styles.location}>Location</div>
       <div className={styles.homeChild3} />
@@ -72,9 +72,6 @@ const Home: FunctionComponent = () => {
         src="/nopath--copy-16@2x.png"
         onClick={onNoPathCopyClick}
       />
-      <img className={styles.image7Icon} alt="" src="/image-7@2x.png" />
-      <div className={styles.lineDiv} />
-      <div className={styles.homeChild9} />
       <div className={styles.homeChild10} />
       <div className={styles.homeChild11} />
       <div className={styles.homeChild12} />
@@ -87,7 +84,6 @@ const Home: FunctionComponent = () => {
         onClick={onPath16IconClick}
       />
       <div className={styles.homeChild14} onClick={onPath16IconClick} />
-      <img className={styles.en42fabIcon} alt="" src="/en42fab@2x.png" />
       <img className={styles.path41Icon} alt="" src="/path-41.svg" />
       <div className={styles.homeInner} />
       <img
@@ -99,12 +95,9 @@ const Home: FunctionComponent = () => {
       <div className={styles.universityOfLouisville}>
         University of Louisville
       </div>
-      <div className={styles.ithacaNyDueContainer}>
-        <p className={styles.ithacaNy}>{`📍 Louisville, KY `}</p>
-        <p className={styles.ithacaNy}>Due 02/15/2025</p>
-      </div>
+        <p className={styles.louisvilleKy}>{`📍 Louisville, KY `}</p>
+        <p className={styles.louisvilleKyDue}>Due 02/15/2025</p>
       <div className={styles.homeChild16} onClick={onRectangleClick2} />
-      <img className={styles.path45Icon} alt="" src="/path-45.svg" />
     </div>
   );
 };

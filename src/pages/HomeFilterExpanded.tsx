@@ -69,10 +69,8 @@ const HomeFilterExpanded: FunctionComponent = () => {
       <div className={styles.universityOfLouisville}>
         University of Louisville
       </div>
-      <div className={styles.ithacaNyDueContainer}>
-        <p className={styles.ithacaNy}>{`📍 Louisville, KY `}</p>
-        <p className={styles.ithacaNy}>Due 02/15/2025</p>
-      </div>
+      <p className={styles.louisvilleKy}>{`📍 Louisville, KY `}</p>
+      <p className={styles.louisvilleKyDue}>Due 02/15/2025</p>
       <div className={styles.homeFilterExpandedChild9} />
       <div className={styles.homeFilterExpandedChild10} />
       <img

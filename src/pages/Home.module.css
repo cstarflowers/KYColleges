@@ -47,14 +47,6 @@
   width: 26.6px;
   height: 0px;
 }
-.image3Icon {
-  position: absolute;
-  top: 329px;
-  left: 16px;
-  width: 185px;
-  height: 135px;
-  object-fit: cover;
-}
 
 .yourMatches {
   position: absolute;
@@ -95,16 +87,6 @@
   top: 727px;
   left: 55px;
   font-size: var(--font-size-smi);
-}
-.homeChild1 {
-  position: absolute;
-  top: 592px;
-  right: -165px;
-  background-color: var(--color-gray-100);
-  border: 1px solid var(--color-dimgray);
-  box-sizing: border-box;
-  width: 180px;
-  height: 189px;
 }
 .nopathCopy18 {
   position: absolute;
@@ -164,6 +146,7 @@
   position: absolute;
   top: 592px;
   right: 33px;
+  left: 210px;
   background-color: var(--color-gray-100);
   border: 1px solid var(--color-dimgray);
   box-sizing: border-box;
@@ -174,19 +157,32 @@
   position: absolute;
   top: 709.5px;
   right: 47.5px;
+  left: 220px;
   font-size: var(--font-size-base);
   -webkit-text-stroke: 1px #fff;
 }
 .lexingtonKy {
   position: absolute;
   top: 727px;
-  left: 252px;
+  left: 240px;
+  font-size: var(--font-size-smi);
+}
+.louisvilleKy {
+  position: absolute;
+  top: 460px;
+  left: 60px;
+  font-size: var(--font-size-smi);
+}
+.louisvilleKyDue {
+  position: absolute;
+  top: 480px;
+  left: 60px;
   font-size: var(--font-size-smi);
 }
 .homeChild6 {
   position: absolute;
   bottom: 158px;
-  left: 232px;
+  left: 220px;
   border-radius: var(--br-5xs);
   background-color: var(--color-seagreen);
   width: 46px;
@@ -195,13 +191,13 @@
 .major1 {
   position: absolute;
   bottom: 162px;
-  left: 238px;
+  left: 230px;
   white-space: pre-wrap;
 }
 .homeChild7 {
   position: absolute;
   bottom: 158px;
-  left: 284px;
+  left: 280px;
   border-radius: var(--br-5xs);
   background-color: var(--color-khaki);
   width: 46px;
@@ -210,13 +206,14 @@
 .clubs {
   position: absolute;
   bottom: 162px;
-  left: 292px;
+  left: 290px;
   white-space: pre-wrap;
 }
 .homeChild8 {
   position: absolute;
   right: 49px;
   bottom: 158px;
+  left: 335px;
   border-radius: var(--br-5xs);
   background-color: var(--color-indianred);
   width: 46px;
@@ -226,42 +223,18 @@
   position: absolute;
   right: 60px;
   bottom: 162px;
+  left: 345px;
   white-space: pre-wrap;
 }
 .nopathCopy16 {
   position: absolute;
   top: 596px;
   right: 37px;
+  left: 215px;
   width: 172px;
   height: 101px;
   object-fit: cover;
   cursor: pointer;
-}
-.image7Icon {
-  position: absolute;
-  top: 596px;
-  right: -165px;
-  width: 175px;
-  height: 101px;
-  object-fit: cover;
-}
-.lineDiv {
-  position: absolute;
-  top: 53.94px;
-  right: 28.6px;
-  border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
-  width: 38.9px;
-  height: 6px;
-}
-.homeChild9 {
-  position: absolute;
-  top: 63.72px;
-  right: 28.6px;
-  border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
-  width: 38.9px;
-  height: 6px;
 }
 .homeChild10 {
   position: absolute;
