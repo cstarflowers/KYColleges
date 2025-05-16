@@ -32,15 +32,6 @@
   font-size: var(--font-size-lg);
   -webkit-text-stroke: 1px #fff;
 }
-.ithacaNy {
-  margin: 0;
-}
-.ithacaNyDueContainer {
-  position: absolute;
-  top: 470px;
-  left: 54px;
-  font-size: var(--font-size-smi);
-}
 .yourMatches {
   position: absolute;
   top: 550.5px;
@@ -80,16 +71,6 @@
   top: 727px;
   left: 55px;
   font-size: var(--font-size-smi);
-}
-.homeFilterExpandedInner {
-  position: absolute;
-  top: 592px;
-  right: -165px;
-  background-color: var(--color-gray-100);
-  border: 1px solid var(--color-dimgray);
-  box-sizing: border-box;
-  width: 180px;
-  height: 189px;
 }
 .nopathCopy18 {
   position: absolute;
@@ -132,6 +113,7 @@
   position: absolute;
   top: 592px;
   right: 33px;
+  left: 210px;
   background-color: var(--color-gray-100);
   border: 1px solid var(--color-dimgray);
   box-sizing: border-box;
@@ -175,7 +157,7 @@
 .homeFilterExpandedChild4 {
   position: absolute;
   bottom: 158px;
-  left: 232px;
+  left: 220px;
   border-radius: var(--br-5xs);
   background-color: var(--color-seagreen);
   width: 46px;
@@ -184,7 +166,7 @@
 .homeFilterExpandedChild5 {
   position: absolute;
   bottom: 158px;
-  left: 284px;
+  left: 280px;
   border-radius: var(--br-5xs);
   background-color: var(--color-khaki);
   width: 46px;
@@ -194,6 +176,7 @@
   position: absolute;
   right: 49px;
   bottom: 158px;
+  left: 335px;
   border-radius: var(--br-5xs);
   background-color: var(--color-indianred);
   width: 46px;
@@ -203,6 +186,7 @@
   position: absolute;
   top: 596px;
   right: 37px;
+  left: 215px;
   width: 172px;
   height: 101px;
   object-fit: cover;
@@ -269,31 +253,6 @@
   height: 156px;
   object-fit: cover;
 }
-.path4Icon {
-  position: absolute;
-  bottom: 132px;
-  left: 200.19px;
-  width: 26.6px;
-  height: 0px;
-}
-.lineDiv {
-  position: absolute;
-  top: 53.94px;
-  right: 28.6px;
-  border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
-  width: 38.9px;
-  height: 6px;
-}
-.homeFilterExpandedChild11 {
-  position: absolute;
-  top: 63.72px;
-  right: 28.6px;
-  border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
-  width: 38.9px;
-  height: 6px;
-}
 .homeFilterExpandedChild12 {
   position: absolute;
   bottom: -3px;
@@ -302,15 +261,6 @@
   background-color: var(--color-darkslategray-300);
   width: 152px;
   height: 115px;
-}
-.homeFilterExpandedChild13 {
-  position: absolute;
-  top: 73.5px;
-  right: 28.6px;
-  border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
-  width: 38.9px;
-  height: 6px;
 }
 .homeFilterExpandedChild14 {
   position: absolute;
@@ -327,22 +277,6 @@
   width: 42px;
   height: 39.5px;
 }
-.homeFilterExpandedChild15 {
-  position: absolute;
-  top: 546px;
-  left: 225px;
-  border-radius: var(--br-xl);
-  background-color: var(--color-darkslategray-100);
-  width: 120px;
-  height: 39px;
-}
-.homeFilterExpandedChild16 {
-  position: absolute;
-  top: 25px;
-  right: 3px;
-  width: 93px;
-  height: 76px;
-}
 .en42fabIcon {
   position: absolute;
   top: 13px;
@@ -355,6 +289,7 @@
   position: absolute;
   top: 546px;
   right: 10px;
+  left: 225px;
   border-radius: var(--br-xl);
   background-color: var(--color-darkslategray-100);
   width: 155px;
@@ -362,28 +297,32 @@
 }
 .yearColleges {
   position: absolute;
-  top: 557px;
+  top: 680px;
   right: 25px;
+  left: -1285px;
   font-size: var(--font-size-mid);
   text-align: center;
 }
 .yearColleges1 {
   position: absolute;
-  top: 597px;
+  top: 650px;
   right: 23px;
+  left: -1285px;
   font-size: var(--font-size-mid);
   text-align: center;
 }
 .tradeSchools {
   position: absolute;
-  top: 636px;
+  top: 620px;
   right: 31px;
+  left: 250px;
   font-size: var(--font-size-mid);
 }
 .certifications {
   position: absolute;
-  top: 674px;
+  top: 590px;
   right: 32px;
+  left: 250px;
   font-size: var(--font-size-mid);
 }
 .path16Icon1 {
@@ -428,19 +367,20 @@
 .major1 {
   position: absolute;
   bottom: 162px;
-  left: 238px;
+  left: 230px;
   white-space: pre-wrap;
 }
 .clubs {
   position: absolute;
   bottom: 162px;
-  left: 292px;
+  left: 290px;
   white-space: pre-wrap;
 }
 .dorms {
   position: absolute;
   right: 60px;
   bottom: 162px;
+  left: 345px;
   white-space: pre-wrap;
 }
 .homeFilterExpanded {

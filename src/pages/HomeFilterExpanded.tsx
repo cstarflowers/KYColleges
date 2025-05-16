@@ -21,18 +21,11 @@ const HomeFilterExpanded: FunctionComponent = () => {
     <div className={styles.homeFilterExpanded}>
       <div className={styles.yourSchools}>Your Schools</div>
       <div className={styles.homeFilterExpandedChild} />
-      <img className={styles.image3Icon} alt="" src="/image-3@2x.png" />
-      <div className={styles.cornellUniversity}>Cornell University</div>
-      <div className={styles.ithacaNyDueContainer}>
-        <p className={styles.ithacaNy}>{`📍 Ithaca, NY `}</p>
-        <p className={styles.ithacaNy}>Due 01/02/2025</p>
-      </div>
       <div className={styles.yourMatches}>Your Matches</div>
       <div
         className={styles.homeFilterExpandedItem}
         onClick={onRectangleClick}
       />
-      <img className={styles.image3Icon1} alt="" src="/image-3@2x.png" />
       <div className={styles.centreCollege}>Centre College</div>
       <div className={styles.danvilleKy}>📍 Danville, KY</div>
       <div className={styles.homeFilterExpandedInner} />
@@ -45,19 +38,11 @@ const HomeFilterExpanded: FunctionComponent = () => {
       <div className={styles.homeFilterExpandedChild1} />
       <div className={styles.homeFilterExpandedChild2} />
       <div className={styles.homeFilterExpandedChild3} />
-      <img className={styles.image3Icon2} alt="" src="/image-3@2x.png" />
       <div className={styles.universityOfKentucky}>University of Kentucky</div>
       <div className={styles.lexingtonKy}>📍 Lexington, KY</div>
       <div className={styles.homeFilterExpandedChild4} />
       <div className={styles.homeFilterExpandedChild5} />
       <div className={styles.homeFilterExpandedChild6} />
-      <img
-        className={styles.nopathCopy16}
-        alt=""
-        src="/nopath--copy-16@2x.png"
-      />
-      <img className={styles.image7Icon} alt="" src="/image-7@2x.png" />
-      <img className={styles.path16Icon} alt="" src="/path-16.svg" />
       <div className={styles.homeFilterExpandedChild7} />
       <div className={styles.homeFilterExpandedChild} />
       <img
